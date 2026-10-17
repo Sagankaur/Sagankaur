@@ -1,90 +1,43 @@
 # Hi, I'm Sagandeep Kaur
 
-I am a B.S. Data Science and Applications student at the Indian Institute of Technology Madras, interested in building reproducible and reliable artificial intelligence systems.
+I am an IIT Madras B.S. Data Science and Applications student who builds applied machine-learning systems, backend workflows, and data products. I care about reproducible experiments, explicit evaluation, and interfaces that make model output useful to people.
 
-My current work spans multilingual speech and language processing, computer vision, retrieval-augmented generation, and production-oriented MLOps. I am particularly interested in research that connects strong experimental methodology with practical deployment.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f766e?style=flat-square)](https://portfolio-kappa-swart-36.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sagan-kaur/)
+[![Email](https://img.shields.io/badge/Email-sagan.kaur.k%40gmail.com-b45309?style=flat-square)](mailto:sagan.kaur.k@gmail.com)
 
-## Research Interests
+## Selected work
 
-* Large Language Models and Retrieval-Augmented Generation
-* Multilingual NLP and Speech Recognition
-* Computer Vision and Image Restoration
-* MLOps, LLMOps, and Reproducible Machine Learning
-* Responsible and Trustworthy AI
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [SiteSage AI](https://github.com/Sagankaur/Construction-Procurement-Intelligence-Agent) | A local construction-procurement prototype with document ingestion, cited retrieval, delay-risk prediction, vendor scoring, and operational alerts. | Python, Streamlit, FAISS, scikit-learn, SQLite, Ollama (optional) |
+| [Multilingual Speech Recognition](https://github.com/Sagankaur/Multilingual-Speech-Recognition) | Language-aware ASR experiments for English, Hindi, and Tamil under limited-compute constraints. | PyTorch, Whisper, Indic Conformer, Hugging Face |
+| [Low-Light Image Restoration](https://github.com/Sagankaur/Denoising-and-Super-Resolution-Images) | Joint denoising, illumination correction, and 4x super-resolution with a custom SR U-Net workflow. | PyTorch, U-Net, PixelShuffle, CUDA |
+| [End-to-End MLOps Pipeline](https://github.com/Sagankaur/23f2003511_MLOPS_WEEKLY_ASSIGNMENT) | Experiment tracking, data versioning, API serving, cloud deployment, monitoring, and model-governance exercises. | MLflow, DVC, FastAPI, Docker, GKE, OpenTelemetry |
+| [Local Chapter Activity Dashboard](https://github.com/Sagankaur/Local-Chapter-NPTEL) | A standalone Flask showcase that explores Local Chapter activity trends using synthetic sample data. It is separate from NPTEL's production code. | Flask, SQLAlchemy, SQLite, Bootstrap, Chart.js |
+
+More projects and implementation notes are available on my [portfolio](https://portfolio-kappa-swart-36.vercel.app/#projects).
+
+## Experience
+
+- **Software Engineering Intern — NPTEL, IIT Madras:** worked on production-facing Local Chapter and content workflows using Python, Django, Wagtail, JavaScript/TypeScript, PostgreSQL, and Docker. Contributions included validation and duplicate-detection logic, reviewer/admin flows, migrations, tests, authorization fixes, and operational tooling.
+- **NLP Intern — Department of Management Studies, IIT Madras:** explored preprocessing, topic modelling, transformer-based representations, and interpretable analysis of unstructured employee-review data.
+- **Teaching Assistant — IIT Madras:** supported programming and software-engineering courses, helping student teams with requirements, architecture, debugging, and testing.
+
+## Current interests
+
+- Retrieval quality and citation faithfulness in RAG systems
+- Multilingual speech and language processing
+- Computer vision and image restoration
+- MLOps, observability, and trustworthy model evaluation
 
 ## Education
 
 **Indian Institute of Technology Madras**
 B.S. in Data Science and Applications
-CGPA: 9.04/10
-
-## Research and Technical Experience
-
-* **NLP Research Intern, Department of Management Studies, IIT Madras**
-
-  * Worked on topic modelling and interpretable analysis of unstructured employee-review data.
-  * Explored transformer-based embeddings and topic discovery methods.
-
-* **Web Development Intern, NPTEL, IIT Madras**
-
-  * Developed analytics APIs, optimized SQL workflows, and automated data-validation processes.
-
-* **Teaching Assistant, IIT Madras**
-
-  * Supported courses in Software Engineering and Computational Thinking.
-  * Guided student teams through requirements, architecture, implementation, and testing.
-
-## Featured Research Projects
-
-### Multilingual Speech Recognition
-
-Fine-tuning and evaluating Whisper-based models for Hindi, Tamil, and English speech under limited-compute conditions.
-
-**Methods:** Whisper, LoRA, wav2vec2, audio preprocessing, WER evaluation
-**Best validation WER:** 0.43
-[Repository](https://github.com/Sagankaur/Multilingual-Speech-Recognition)
-
-### Low-Light Image Restoration
-
-Joint denoising, illumination correction, and 4× super-resolution using a custom SRUNet pipeline.
-
-**Methods:** U-Net, PixelShuffle, Charbonnier loss, edge loss, test-time augmentation
-**Private RMSE:** 18.7
-[Repository](https://github.com/Sagankaur/Denoising-and-Super-Resolution-Images)
-
-### SiteSage AI
-
-A local construction-procurement intelligence system combining cited retrieval, risk prediction, vendor scoring, and operational alerts.
-
-**Methods:** RAG, FAISS, Ollama, scikit-learn, Streamlit, SQLite
-[Repository](https://github.com/Sagankaur/Construction-Procurement-Intelligence-Agent)
-
-### Reproducible MLOps Pipeline
-
-An end-to-end ML system integrating experiment tracking, data versioning, deployment, observability, governance, and LLMOps.
-
-**Methods:** MLflow, DVC, Docker, GKE, GitHub Actions, OpenTelemetry, SHAP
-[Repository](https://github.com/Sagankaur/Mlops-pipeline)
-
-## Publications and Technical Reports
-
-* Multilingual Speech Recognition Using Parameter-Efficient Fine-Tuning, technical report in preparation
-* Additional research manuscripts and project reports will be added here
-
-## Current Focus
-
-* Comparing parameter-efficient ASR fine-tuning strategies
-* Evaluating retrieval quality and citation faithfulness in local RAG systems
-* Improving reproducibility across computer-vision experiments
-* Preparing research projects for publication-quality documentation
 
 ## Contact
 
-* [LinkedIn](https://www.linkedin.com/in/sagan-kaur/)
-* Email: [sagan.kaur.k@gmail.com](mailto:sagan.kaur.k@gmail.com)
-* GitHub: [Sagankaur](https://github.com/Sagankaur)
-
-<!---
-Sagankaur/Sagankaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [LinkedIn](https://www.linkedin.com/in/sagan-kaur/)
+- [Email](mailto:sagan.kaur.k@gmail.com)
+- [Portfolio](https://portfolio-kappa-swart-36.vercel.app)
