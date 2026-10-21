@@ -21,8 +21,8 @@ More projects and implementation notes are available on my [portfolio](https://p
 
 ## Experience
 
-- **Tech Team (Full-time) — AI4Bharat, IIT Madras** (Oct 2026 – present).
-- **Research Intern — Applied Artificial Intelligence Institute (A2I2), Deakin University:** working under Prof. Mohamed Abdelrazek on self-adapting problem-solving strategies for AI agents ([Adaptive-Agent-Strategies](https://github.com/Sagankaur/Adaptive-Agent-Strategies)).
+- **Tech Team (Full-time) — AI4Bharat, IIT Madras** (21 Oct 2026 – 31 Jan 2027).
+- **Research Intern — Applied Artificial Intelligence Institute (A2I2), Deakin University** (2 Nov 2026 – 22 Jan 2027): research internship under Prof. Mohamed Abdelrazek on self-adapting problem-solving strategies for AI agents ([Adaptive-Agent-Strategies](https://github.com/Sagankaur/Adaptive-Agent-Strategies)).
 - **Software Engineering Intern — NPTEL, IIT Madras:** worked on production-facing Local Chapter and content workflows using Python, Django, Wagtail, JavaScript/TypeScript, PostgreSQL, and Docker. Contributions included validation and duplicate-detection logic, reviewer/admin flows, migrations, tests, authorization fixes, and operational tooling.
 - **NLP Intern — Department of Management Studies, IIT Madras:** explored preprocessing, topic modelling, transformer-based representations, and interpretable analysis of unstructured employee-review data.
 - **Teaching Assistant — IIT Madras:** supported programming and software-engineering courses, helping student teams with requirements, architecture, debugging, and testing.
@@ -30,7 +30,8 @@ More projects and implementation notes are available on my [portfolio](https://p
 ## Research collaborations
 
 - **LLM transformation of learner writing** — with Prof. Rajesh Kumar and Prof. Mitesh M. Khapra (IIT Madras): how LLM grammatical-error correction changes learner writing compared with human correctors. Paper draft in preparation.
-- **Multi-hop question generation by tree search** — with Prof. Haw-Shiuan Chang (University of Arizona): generating harder multi-hop questions over retrieved passages and evaluating them with LLM search agents.
+- **Multi-hop question generation by tree search** — with Prof. Haw-Shiuan Chang (University of Arizona), since Aug 2026: generating harder multi-hop questions over retrieved passages and evaluating them with LLM search agents.
+- **Multilingual GSM-Symbolic** — with Kenneth Enevoldsen and co-authors, since Aug 2026: co-author of an ICLR 2027 submission (under review) on what determines capability transfer across languages ([OpenReview](https://openreview.net/forum?id=9NjhH91nrC)).
 
 ## Current interests
 
