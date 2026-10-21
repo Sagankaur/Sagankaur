@@ -12,7 +12,8 @@ I am an IIT Madras B.S. Data Science and Applications student who builds applied
 | --- | --- | --- |
 | [SiteSage AI](https://github.com/Sagankaur/Construction-Procurement-Intelligence-Agent) | A local construction-procurement prototype with document ingestion, cited retrieval, delay-risk prediction, vendor scoring, and operational alerts. | Python, Streamlit, FAISS, scikit-learn, SQLite, Ollama (optional) |
 | [Multilingual Speech Recognition](https://github.com/Sagankaur/Multilingual-Speech-Recognition) | Language-aware ASR experiments for English, Hindi, and Tamil under limited-compute constraints. | PyTorch, Whisper, Indic Conformer, Hugging Face |
-| [Low-Light Image Restoration](https://github.com/Sagankaur/Denoising-and-Super-Resolution-Images) | Joint denoising, illumination correction, and 4x super-resolution with a custom SR U-Net workflow. | PyTorch, U-Net, PixelShuffle, CUDA |
+| [Low-Light Image Restoration](https://github.com/Sagankaur/Denoising-and-Super-Resolution-Images) | Joint denoising, illumination correction, and 4x super-resolution with a custom SR U-Net workflow; rank 14 of 175 on the Kaggle public leaderboard. | PyTorch, U-Net, PixelShuffle, CUDA |
+| [Reconstruct Corrupt Images](https://github.com/Sagankaur/Reconstruct-corrupt-images) | Image restoration from a Gaussian-blur baseline to a NAFNet; MSE 32.30 public / 32.58 private, rank 9 of 96 on the Kaggle public leaderboard. | PyTorch, U-Net, NAFNet |
 | [End-to-End MLOps Pipeline](https://github.com/Sagankaur/23f2003511_MLOPS_WEEKLY_ASSIGNMENT) | Experiment tracking, data versioning, API serving, cloud deployment, monitoring, and model-governance exercises. | MLflow, DVC, FastAPI, Docker, GKE, OpenTelemetry |
 | [Local Chapter Activity Dashboard](https://github.com/Sagankaur/Local-Chapter-NPTEL) | A standalone Flask showcase that explores Local Chapter activity trends using synthetic sample data. It is separate from NPTEL's production code. | Flask, SQLAlchemy, SQLite, Bootstrap, Chart.js |
 
@@ -20,9 +21,16 @@ More projects and implementation notes are available on my [portfolio](https://p
 
 ## Experience
 
+- **Tech Team (Full-time) — AI4Bharat, IIT Madras** (Oct 2026 – present).
+- **Research Intern — Applied Artificial Intelligence Institute (A2I2), Deakin University:** working under Prof. Mohamed Abdelrazek on self-adapting problem-solving strategies for AI agents ([Adaptive-Agent-Strategies](https://github.com/Sagankaur/Adaptive-Agent-Strategies)).
 - **Software Engineering Intern — NPTEL, IIT Madras:** worked on production-facing Local Chapter and content workflows using Python, Django, Wagtail, JavaScript/TypeScript, PostgreSQL, and Docker. Contributions included validation and duplicate-detection logic, reviewer/admin flows, migrations, tests, authorization fixes, and operational tooling.
 - **NLP Intern — Department of Management Studies, IIT Madras:** explored preprocessing, topic modelling, transformer-based representations, and interpretable analysis of unstructured employee-review data.
 - **Teaching Assistant — IIT Madras:** supported programming and software-engineering courses, helping student teams with requirements, architecture, debugging, and testing.
+
+## Research collaborations
+
+- **LLM transformation of learner writing** — with Prof. Rajesh Kumar and Prof. Mitesh M. Khapra (IIT Madras): how LLM grammatical-error correction changes learner writing compared with human correctors. Paper draft in preparation.
+- **Multi-hop question generation by tree search** — with Prof. Haw-Shiuan Chang (University of Arizona): generating harder multi-hop questions over retrieved passages and evaluating them with LLM search agents.
 
 ## Current interests
 
