@@ -29,9 +29,9 @@ More projects and implementation notes are available on my [portfolio](https://p
 
 ## Research collaborations
 
-- **LLM transformation of learner writing** — with Prof. Rajesh Kumar and Prof. Mitesh M. Khapra (IIT Madras): how LLM grammatical-error correction changes learner writing compared with human correctors. Paper draft in preparation.
+- **LLM transformation of learner writing** — with Prof. Rajesh Kumar and Prof. Mitesh M. Khapra (IIT Madras), since Aug 2026: how LLM grammatical-error correction changes learner writing compared with human correctors. Paper draft in preparation.
 - **Multi-hop question generation by tree search** — with Prof. Haw-Shiuan Chang (University of Arizona), since Aug 2026: generating harder multi-hop questions over retrieved passages and evaluating them with LLM search agents.
-- **Multilingual GSM-Symbolic** — with Kenneth Enevoldsen and co-authors, since Aug 2026: co-author of an ICLR 2027 submission (under review) on what determines capability transfer across languages ([OpenReview](https://openreview.net/forum?id=9NjhH91nrC)).
+- **Multilingual GSM-Symbolic** — with Kenneth Enevoldsen and co-authors, since Aug 2026: co-author of an ICLR 2027 submission (under review) on what determines capability transfer across languages ([arXiv:2610.03367](https://arxiv.org/abs/2610.03367), [OpenReview](https://openreview.net/forum?id=9NjhH91nrC)).
 
 ## Current interests
 
